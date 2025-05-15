@@ -1,0 +1,1 @@
+Place avatar images (e.g., avatar1.png, avatar2.png, avatar3.png) in this directory for user selection during onboarding. 

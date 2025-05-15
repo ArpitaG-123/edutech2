@@ -1,0 +1,112 @@
+{
+  "Karnataka": {
+    "Primary": {
+      "Math": {
+        "Numbers": "Learn about numbers and counting in a fun way!",
+        "Addition": "This chapter covers the basics of addition with examples."
+      },
+      "EVS": {
+        "Plants": "Discover the world of plants and their uses.",
+        "Animals": "Meet different animals and their habitats."
+      }
+    },
+    "Upper Primary": {
+      "Math": {
+        "Fractions": "Understand fractions and how to use them.",
+        "Decimals": "Learn about decimals and their applications."
+      },
+      "EVS": {
+        "Water": "Learn about the importance of water.",
+        "Air": "Explore the properties of air."
+      }
+    }
+  },
+  "Maharashtra": {
+    "Primary": {
+      "Math": {
+        "Numbers": "Maharashtra Numbers content.",
+        "Addition": "Maharashtra Addition content."
+      },
+      "EVS": {
+        "Plants": "Maharashtra Plants content.",
+        "Animals": "Maharashtra Animals content."
+      }
+    },
+    "Upper Primary": {
+      "Math": {
+        "Fractions": "Maharashtra Fractions content.",
+        "Decimals": "Maharashtra Decimals content."
+      },
+      "EVS": {
+        "Water": "Maharashtra Water content.",
+        "Air": "Maharashtra Air content."
+      }
+    }
+  },
+  "Tamil Nadu": {
+    "Primary": {
+      "Math": {
+        "Numbers": "Tamil Nadu Numbers content.",
+        "Addition": "Tamil Nadu Addition content."
+      },
+      "EVS": {
+        "Plants": "Tamil Nadu Plants content.",
+        "Animals": "Tamil Nadu Animals content."
+      }
+    },
+    "Upper Primary": {
+      "Math": {
+        "Fractions": "Tamil Nadu Fractions content.",
+        "Decimals": "Tamil Nadu Decimals content."
+      },
+      "EVS": {
+        "Water": "Tamil Nadu Water content.",
+        "Air": "Tamil Nadu Air content."
+      }
+    }
+  },
+  "West Bengal": {
+    "Primary": {
+      "Math": {
+        "Numbers": "West Bengal Numbers content.",
+        "Addition": "West Bengal Addition content."
+      },
+      "EVS": {
+        "Plants": "West Bengal Plants content.",
+        "Animals": "West Bengal Animals content."
+      }
+    },
+    "Upper Primary": {
+      "Math": {
+        "Fractions": "West Bengal Fractions content.",
+        "Decimals": "West Bengal Decimals content."
+      },
+      "EVS": {
+        "Water": "West Bengal Water content.",
+        "Air": "West Bengal Air content."
+      }
+    }
+  },
+  "Uttar Pradesh": {
+    "Primary": {
+      "Math": {
+        "Numbers": "Uttar Pradesh Numbers content.",
+        "Addition": "Uttar Pradesh Addition content."
+      },
+      "EVS": {
+        "Plants": "Uttar Pradesh Plants content.",
+        "Animals": "Uttar Pradesh Animals content."
+      }
+    },
+    "Upper Primary": {
+      "Math": {
+        "Fractions": "Uttar Pradesh Fractions content.",
+        "Decimals": "Uttar Pradesh Decimals content."
+      },
+      "EVS": {
+        "Water": "Uttar Pradesh Water content.",
+        "Air": "Uttar Pradesh Air content."
+      }
+    }
+  }
+} 
